@@ -5,4 +5,5 @@ sframes/
 sframe_serialization/
 __pycache__/
 mlmodels/
+classifier_standard.ipynb
 playground.ipynb
