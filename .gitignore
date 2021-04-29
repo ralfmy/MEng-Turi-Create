@@ -1,4 +1,3 @@
-datasets/
 env/
 .DS_Store
 .idea/
@@ -6,3 +5,4 @@ sframes/
 sframe_serialization/
 __pycache__/
 mlmodels/
+playground.ipynb
