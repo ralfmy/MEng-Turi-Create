@@ -1,5 +1,4 @@
 from helpers import *
-import json
 
 class Model:
     def __init__(self, classifier, metrics):

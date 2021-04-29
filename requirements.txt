@@ -1,0 +1,7 @@
+turicreate
+jupyter
+matplotlib
+numpy
+pandas
+opencv-python
+Pillow
