@@ -1,7 +1,9 @@
 # MEng-Turi-Create
 ### Turi Create experiments for classifying busyness from TfL JamCam images, including dataset.
 
-## Directory Tree
+Written and tested with Python v3.8.6
+
+#### Directory Tree
 ```
 +-- datasets/             
 |    +-- crossval/
