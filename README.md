@@ -7,16 +7,16 @@ Written and tested with Python v3.8.6
 ```
 +-- datasets/             
 |    +-- crossval/
-|        +-- augmented/
-|            +-- ...
-|        +-- locations/            # images per location
-|            +-- ...
-|        +-- preprocessed/         # preprocessed images
-|            +-- busy/
-|            +-- not_busy/
-|        +-- raw/                  # raw images (no preprocessing)
-|            +-- busy/
-|            +-- not_busy/
+|    |   +-- augmented/
+|    |   |   +-- ...
+|    |   +-- locations/            # images per location
+|    |   |   +-- ...
+|    |   +-- preprocessed/         # preprocessed images
+|    |   |   +-- busy/
+|    |   |   +-- not_busy/
+|    |   +-- raw/                  # raw images (no preprocessing)
+|    |   |   +-- busy/
+|    |   |   +-- not_busy/
 +-- pickles/                       # saved runs for quicker re-runs
 |    +-- ...
 +-- classifier_crossval.ipynb      # main notebook; run for 10-fold cross-validation and location-based cross-validation
